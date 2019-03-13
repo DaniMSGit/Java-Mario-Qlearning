@@ -9,7 +9,7 @@ An action controller for the Super Mario AI videogame has been developed using t
 
 ## Getting Started
 
-The content of this repository is the folder of the libGDX project. The compiled video game for Java and Android has been added to run it directly. Unity allows you to compile the application for different platforms.
+The content of this repository is the folder of the Eclipse project. The controller is in the competition.uhu.controller package. To train the controller execute MainTraining.java. To test it run MainPrueba.java.
 
 ## Authors
 
