@@ -1,4 +1,4 @@
-# Controller for the Super Mario videogame using the Q-learning algorithm..
+# Controller for the Super Mario AI game using the Q-learning algorithm.
 
 An action controller for the Super Mario AI videogame has been developed using the Q-learning reinforcement learning algorithm. The application allows to train the controller and then put it to the test.
 
