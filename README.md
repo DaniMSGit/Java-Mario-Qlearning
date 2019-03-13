@@ -3,7 +3,7 @@
 An action controller for the Super Mario AI videogame has been developed using the Q-learning reinforcement learning algorithm. The application allows to train the controller and then put it to the test.
 
 <p align="center">
-  <img width="336" height="278" src="https://user-images.githubusercontent.com/18056187/54292912-4f16d300-45af-11e9-94c9-b15e8719b4da.png">
+  <img width="336" height="278" src="https://user-images.githubusercontent.com/18056187/54293329-0dd2f300-45b0-11e9-989e-1f38c9f5391c.png">
 </p>
 
 
