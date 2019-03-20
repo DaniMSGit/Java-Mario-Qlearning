@@ -9,7 +9,7 @@ An action controller for the Super Mario AI videogame has been developed using t
 
 ## Getting Started
 
-The content of this repository is the folder of the Eclipse project. The controller is in the competition.uhu.controller package. To train the controller execute MainTraining.java. To test it run MainPrueba.java.
+The content of this repository is the folder of the Eclipse project. The controller is in the competition.uhu.controller package. To train the controller execute MainTraining.java. To test it run MainPrueba.java. A simple demonstration of the results [here](https://www.youtube.com/watch?v=_B2_XZuGi2g)
 
 ## Authors
 
